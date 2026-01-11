@@ -5,7 +5,7 @@ import java.text.SimpleDateFormat;
 import javax.swing.SwingUtilities;
 import javax.swing.UIManager;
 
-// Interface
+// Interface faizan
 interface Manageable {
     void display();
 }
