@@ -17,7 +17,7 @@
 | ---------------- | ------------------- 
 | Faizan izzat     | FA24-BSE-121       
 | Ali Hasnat       |       
-| Tanveer Hasssan  |        
+| Tanveer Hasssan  | FA23-BSE-119       
 
 ---
 
