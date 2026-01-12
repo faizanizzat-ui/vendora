@@ -6,18 +6,18 @@
 **Semester:** 3rd Semester  
 **Department:** Computer Science and Software Engineering  
 **Institution:** COMSATS University Islamabad, Abbottabad Campus  
-**Instructor:** Sir Nauman Khan  
+**Instructor:** Sir Ahmed Ali  
 **Project Type:** Semester Project
 
 ---
 
 ## Team Members
 
-| Name             | Registration Number | Role         |
-| ---------------- | ------------------- | ------------ |
-| **Ibadat Ullah** | FA24-BSE-116        | Group Leader |
-| Habib Ullah      | FA24-BSE-147        | Member       |
-| Hassan Khan      | SP24-BSE-122        | Member       |
+| Name             | Registration Number 
+| ---------------- | ------------------- 
+| Faizan izzat     | FA24-BSE-121       
+| Ali Hasnat       |       
+| Tanveer Hasssan  |        
 
 ---
 
